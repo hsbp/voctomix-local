@@ -40,9 +40,9 @@ Parameters
 
  - Video:
    - 1280x720 so that two streams can fit within the gigabit pipe and 1080p
-     is too much for some streams
+     is too much for some voctomix notebooks
    - 29.97 FPS to match the DSLR
- - Audio: stereo 16-bit input from ALSA since no audio comes over HDMI
+ - Audio: stereo 16-bit input from ALSA since no audio comes over HDMI from the camera
 
 Operation
 ---------
