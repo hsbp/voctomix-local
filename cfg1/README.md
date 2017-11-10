@@ -1,6 +1,18 @@
 HAVOC voctomix configuration 1
 ==============================
 
+	 _______________________
+	| Black PC              |
+	|                       |
+	|     ,-----<DeckLink 1=+==<-HDMI)==[DSLR]
+	|    /                  |
+	|    |   ,--<DeckLink 2=+==<-HDMI)==[Zidoo]==<-HDMI)==[Speaker notebook]
+	|    |   \              |
+	|    v    >->Ethernet===+==(2xTCP->==[Voctomix notebook]
+	|   MUX>-'              |
+	|    ^------<Sound card=+==<-2xUnbalanced)==[Audio mixing console]
+	|_______________________|
+
 Hardware
 --------
 
