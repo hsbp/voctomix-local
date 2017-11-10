@@ -20,6 +20,7 @@ Constraints
    - and only approx. 1600x900 is the real picture
  - HDMI stream from DSLR doesn't contain audio
  - Black PC doesn't have enough computing power to run `voctocore`
+ - notebooks don't have full-sized PCIe slots
  - Zidoo X9 HDMI resolution can be changed, but it cannot send 29.97 FPS over HDMI
 
 Parameters
