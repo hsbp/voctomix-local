@@ -1,4 +1,4 @@
-HAVOC voctomix configuration 1
+HAVOC voctomix configuration 2
 ==============================
 
 	 _______________________
